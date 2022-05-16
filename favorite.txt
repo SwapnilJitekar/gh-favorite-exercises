@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 tez
 race
+=======
+chiken titka
+chiken masla
+tandoory 
+>>>>>>> foods
